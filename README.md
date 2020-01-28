@@ -1,2 +1,0 @@
-# AddDetails
-Created with CodeSandbox
